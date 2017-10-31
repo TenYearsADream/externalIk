@@ -1,4 +1,3 @@
-
 #include "3X3Matrix.h"
 #include "4Vector.h"
 #include "MyMath.h"

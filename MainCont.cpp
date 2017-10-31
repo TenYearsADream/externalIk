@@ -1,4 +1,3 @@
-
 #include "MainCont.h"
 
 CMainCont::CMainCont()

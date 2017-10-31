@@ -1,4 +1,3 @@
-
 #include "6Vector.h"
 #include "6X6Matrix.h"
 

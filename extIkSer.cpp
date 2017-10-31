@@ -1,6 +1,4 @@
-
 #include "extIkSer.h"
-
 
 
 CExtIkSer::CExtIkSer(unsigned char* data,int dataLength)

@@ -1,4 +1,3 @@
-
 #include "Ct.h"
 
 std::vector<Ct*> Ct::_allCts;

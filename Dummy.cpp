@@ -1,5 +1,3 @@
-
-
 #include "v_repConst.h"
 #include "Dummy.h"
 #include "Ct.h"

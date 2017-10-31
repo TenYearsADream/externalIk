@@ -1,4 +1,3 @@
-
 #include "MyMath.h"
 #include "4X4FullMatrix.h"
 

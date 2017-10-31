@@ -1,4 +1,3 @@
-
 #include "6X6Matrix.h"
 
 
