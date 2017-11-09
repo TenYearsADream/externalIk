@@ -1,3 +1,10 @@
+All the files in each directory are licensed under the terms of the
+license text contained at the beginning of the same file, or if not
+present, under the terms of the license file (license, license.txt,
+copying, etc.) contained in the same directory if it is present, or
+under the same terms of the files in the parent directory otherwise.
+
+-------------------------------------------------------------------
 Copyright 2006-2017 Coppelia Robotics GmbH. All rights reserved. 
 
 The EXTERNAL IK is licensed under the terms of EITHER:
@@ -5,7 +12,7 @@ The EXTERNAL IK is licensed under the terms of EITHER:
   2. EXTERNAL IK educational license (see below)
 
 EXTERNAL IK educational license:
--------------------------------------------------------------------
+================================
 The EXTERNAL IK educational license applies only to EDUCATIONAL
 ENTITIES composed by following people and institutions:
 
